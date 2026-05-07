@@ -1,17 +1,16 @@
 {
+  "author": "robmqi",
+  "name": "RemNote-JetBrains-Keymap",
+  "description": "RemNote-JetBrains-Keymap",
+  "enableOnMobile": false,
+  "id": "robmqi-7h8lwmk",
   "manifestVersion": 1,
-  "id": "plugin_template",
-  "name": "Plugin Template",
-  "author": "remnote",
-  "repoUrl": "",
   "version": {
     "major": 0,
     "minor": 0,
     "patch": 1
   },
-  "theme": [],
-  "enableOnMobile": false,
-  "description": "",
+  "repoUrl": "https://github.com/avavyes/RemNote-JetBrains-Keymap.git",
   "requestNative": false,
   "requiredScopes": [
     {
